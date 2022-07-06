@@ -84,7 +84,7 @@ h1 {
     text-align: center;
     font-size: 25px;
     height: 30px;
-    width: 500px;
+    width: 700px;
     margin-top: 60px;
     margin-bottom: 20px;
     border-width: 0px 0px 2px 0px
@@ -133,4 +133,55 @@ h1 {
     margin: 10px;
     background-color: rgb(247, 246, 218);
     padding: 50px 35px;
+}
+
+.contribute-part-01 {
+    display: flex;
+}
+
+.their-lives {
+    width: 50%;
+}
+
+.their-lives img {
+    width: 450px;
+    height: 450px;
+    margin: 60px;
+    border-radius: 3%;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+#tl-items {
+    margin: 60px;
+}
+
+.contribute-part-02 {
+    display: flex;
+}
+
+.contribute {
+    color: white;
+    background: rgb(255, 77, 77);
+    padding: 15px 40px;
+    margin-top: 35px;
+    border-radius: 5px;
+    border: 0px;
+    font-size: 20px;
+}
+
+.para {
+    color: gray;
+}
+
+.updates {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.updates p {
+    text-align: center;
+    color: gray;
 }
